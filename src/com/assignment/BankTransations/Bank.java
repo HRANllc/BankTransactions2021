@@ -1,4 +1,4 @@
-package com.assignment.BankTransactions;
+package com.assignment.BankTransations;
 
 import java.util.Scanner;
 public class Bank extends BankAccount {

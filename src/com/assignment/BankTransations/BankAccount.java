@@ -1,4 +1,4 @@
-package com.assignment.BankTransactions;
+package com.assignment.BankTransations;
 
 class BankAccount {
     int accountNum = 123456789;
